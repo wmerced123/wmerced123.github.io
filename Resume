@@ -1,0 +1,46 @@
+<html>
+<head>
+  <title>William Merced</title>
+</head>
+<body>
+  <h1>William Merced</h1>
+  <p><strong>Email:</strong> wmerced6589@gmail.com</p>
+  <p><strong>Linkedin:</strong> https://www.linkedin.com/in/williammerced</p>
+  <p><strong>Location:</strong> Miami, FL 33139</p>
+  <p><strong>Phone:</strong> (786) 521-3774</p>
+
+  <h2>Objective</h2>
+  <p>Enthusiastic and driven professional seeking an entry-level position in IT with an emphasis on desktop support or help desk roles managing stellar troubleshooting and communication skills.</p>
+
+  <h2>Education</h2>
+  <ul>
+    <li>University of Florida - Gainesville, Florida</li>
+    <li>Bachelor of Arts, English - June 2020</li>
+    <li>CompTIA A+ Certified</li>
+  </ul>
+
+  <h2>Skills and Qualifications</h2>
+  <ul>
+    <li>Operating Systems: Linux, Windows 7, Windows 8/8.1, Windows 10, Windows 11, MacOS.</li>
+    <li>General Networking: Cisco routers & switches, TCP/IP, general network services, connectivity & troubleshooting. Have taken training in AWS environments, basic Azure virtual network.</li>
+    <li>Network Services: DHCP, DNS, WINS, Active Directory, File/Print Services.</li>
+    <li>Remote Administration: Managing a lab in AWS Management Console containing Active Directory with basic roles. Naming and defining the network directory. Deploying through EC2.</li>
+    <li>Anti-Virus: Microsoft Defender, principle of least privilege.</li>
+    <li>Programming Languages and Background: Basic Python, experienced in creating web-based forms in Hugo and GitHub pages, as well as defining a dictionary and utilization of Google Ads. Tested spelling-correction interacting with documents while utilizing the data for further appending.</li>
+  </ul>
+
+  <h2>Work History</h2>
+  <ul>
+    <li>Best Buy - 2021-2022 Computer Sales Advisor - Miami, FL
+      <ul>
+        <li>Provided customer service support in retail sales primarily in the computer department. Assisted customers in detailed procedures such as phone activations, troubleshooting, product recommendations. Managed triages involving Geek Squad, the front store, and distribution. Assisted in online and phone escalation with internal communications.</li>
+      </ul>
+    </li>
+    <li>CVS - 2020-2021 Shift Supervisor - Miami, FL
+      <ul>
+        <li>Supervised the opening and closing of the store. Organized planograms, managed inventory during unloading. Relegated merchandise in seasonal periods. Conducted customer service situations beyond the scope of the store via phone, email, and personal contact.</li>
+      </ul>
+    </li>
+  </ul>
+</body>
+</html>
