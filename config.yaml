@@ -1,0 +1,36 @@
+# Cayman Theme
+name: Cayman
+description: A minimalist Jekyll theme focused on long-form writing
+author: jasonlong
+version: 1.1.1
+
+# Site Settings
+title: Cayman Jekyll Theme
+logo: /assets/images/logo.svg
+excerpt_separator: <!--more-->
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+paginate: 8
+
+# Features
+search: true
+share: true
+comments: true
+related_posts: true
+
+# Colors
+primary_color: '#16a085'
+accent_color: '#e67e22'
+background_color: '#ffffff'
+
+# Social Links
+twitter: 
+facebook: 
+github: 
+linkedin: 
+instagram: 
+
+# Analytics
+google_analytics:
